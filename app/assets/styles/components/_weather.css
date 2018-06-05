@@ -1,0 +1,13 @@
+.weather-widgets {
+  display:flex;
+  padding:1em 1em;
+  margin:0 auto;
+  margin-right:1em;
+}
+#forecast-embed {
+  margin:1em 1em;
+  width:50%;
+  border:1px solid goldenrod;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px;
+}

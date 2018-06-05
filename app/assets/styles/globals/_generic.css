@@ -1,0 +1,15 @@
+/*  */
+.container {
+  max-width:80%;
+  margin:0 auto;
+  padding-top: 2.5em;
+  letter-spacing: .4px;
+  font-size: 1em;
+}
+.bottom{
+  padding-bottom:5%;
+  margin-top:3em;
+}
+.center {
+  margin-left:45%;
+}

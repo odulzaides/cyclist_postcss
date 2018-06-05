@@ -1,5 +1,10 @@
 @import "normalize.css";
-@import "base/_variables";
-@import "base/_mixins";
-@import "base/_global";
+@import "globals/_variables";
+@import "globals/_mixins";
+@import "globals/_generic.css";
+@import "globals/_global";
+@import "globals/_main.css";
 @import "components/_nav.css";
+@import "components/_hero.css";
+@import "components/_weather.css";
+
