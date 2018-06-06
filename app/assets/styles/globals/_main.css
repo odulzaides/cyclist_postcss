@@ -4,6 +4,3 @@ html, body {
   font-family: $textfont;
   background-color:rgba(206,197,145, .3);
 }
-.center {
-  margin-left:45%;
-}
