@@ -7,11 +7,16 @@ $(document).ready(function () {
     console.log("Scrolled");
     if ($(this).scrollTop() > 100) {
       console.log(this.scrollTop);
-      $('nav').addClass('nav-sticky');
+      $('.nav-pages').addClass('nav-pages-sticky');
+      $('#about').css('padding-top', '6em');
+      $('#rules').css('padding-top', '2.5em');
+      $('#weather').css('padding-top', '5em');
+      $('#rides').css('padding-top', '5em');
     }
     else {
-      $('nav').removeClass('nav-sticky');
+      $('.nav-pages').removeClass('nav-pages-sticky');
     }
   });
 });
-// TODO: Fix nav sticky
+// TODO: Fix nav sticky style
+// TODO: Fix section top padding
