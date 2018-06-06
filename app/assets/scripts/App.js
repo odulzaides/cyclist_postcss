@@ -1,5 +1,6 @@
 
-import $ from 'jquery';
+// import $ from 'jquery';
 import './events';
 
 
+s

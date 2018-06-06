@@ -46,12 +46,11 @@
 
 	"use strict";
 
-	__webpack_require__(3);
+	__webpack_require__(2);
 
 /***/ }),
 /* 1 */,
-/* 2 */,
-/* 3 */
+/* 2 */
 /***/ (function(module, exports) {
 
 	'use strict';
