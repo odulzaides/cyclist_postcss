@@ -517,6 +517,8 @@ nav {
   transition: all 0.4s ease;/* margin-bottom:1em; */
 }
 
+/* TODO: fix weather */
+
 .hero {
   background: url('../../assets/images/ojai-hero.jpg') center center no-repeat;
   @include vp-background-size(cover);
