@@ -2,12 +2,22 @@
   display:flex;
   padding:1em 1em;
   margin:0 auto;
-  margin-right:1em;
+  width:75%
+  /* margin-right:1em; */
 }
-#forecast-embed {
-  margin:1em 1em;
+#forecast_embed {
+  margin:1em 1em 1em 2em;
   width:50%;
   border:1px solid goldenrod;
   border-radius: 10px;
   box-shadow: 1px 1px 1px;
+}
+.fe_container {
+  margin-left:3em;
+}
+.weather-section {
+  display:flex;
+  flex-direction: column;
+  width:50%;
+  margin-bottom:2em;
 }
