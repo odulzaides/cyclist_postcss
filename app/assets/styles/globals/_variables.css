@@ -1,4 +1,13 @@
+/* Colors used */
+/* Jersey Colors */
+$jerseyRed:#E53B1A;
+$jerseyBlue:#86c6db;
+$jerseyGreen:#226a2a;
+$jerseyYellow:#f7f540;
+
+$mainColor: #cec591;
+$navYellow:#dac865;
+/* Fonts */
+$textFont:'Railway', sans-serif; 
 $headingfont:  Dancing Script, cursive;
-$maincolor: rgba(206,197,145, .1);
-$textfont:'Railway', sans-serif; 
 /* font-family: 'Josefin Sans', Helvetica, Arial, sans-serif; */

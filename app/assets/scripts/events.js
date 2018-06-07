@@ -7,11 +7,12 @@ $(document).ready(function () {
     console.log("Scrolled");
     if ($(this).scrollTop() > 100) {
       console.log(this.scrollTop);
-      $('.nav-pages').addClass('nav-pages-sticky');
+      $('.nav-pages').addClass('nav-pages-sticky').fadeIn();
       $('#about').css('padding-top', '6em');
       $('#rules').css('padding-top', '2.5em');
       $('#weather').css('padding-top', '5em');
       $('#rides').css('padding-top', '5em');
+      $('#misc').css('padding-top', '8em');
     }
     else {
       $('.nav-pages').removeClass('nav-pages-sticky');

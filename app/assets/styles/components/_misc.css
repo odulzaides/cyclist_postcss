@@ -1,0 +1,7 @@
+.misc {
+  padding-bottom:15%;
+  margin-top:3em;
+}
+.misc p a {
+  color:rgba($jerseyRed,1);
+}

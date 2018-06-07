@@ -1,6 +1,6 @@
 html, body {
   margin : 0;
   padding: 0;
-  font-family: $textfont;
-  background-color:rgba(206,197,145, .3);
+  font-family: $textFont;
+  background-color:rgba($mainColor, .3);
 }
