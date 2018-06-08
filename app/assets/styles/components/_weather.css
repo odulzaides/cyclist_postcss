@@ -16,8 +16,18 @@
   margin-left:3em;
 }
 .weather-section {
+  position:relative;
   display:flex;
   flex-direction: column;
   width:50%;
   margin-bottom:2em;
+}
+.link {
+  height:245px;
+  width: 50%;
+  position: absolute;
+  top:0;
+  left:0;
+  margin-left:1.5em;
+  
 }
